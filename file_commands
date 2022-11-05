@@ -1,0 +1,7 @@
+echo "# binary_search_algorithm" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/KayBeautiful213/binary_search_algorithm.git
+git push -u origin main
